@@ -1,7 +1,7 @@
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://mavaji.github.io/publications/
   - title: "Translations"
-    url: /translations/
+    url: https://mavaji.github.io/translations/
   - title: "Tags"
     url: /tags/
