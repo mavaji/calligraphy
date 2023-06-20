@@ -1,4 +1,6 @@
 main:
+  - title: "Home"
+    url: https://mavaji.github.io/
   - title: "Publications"
     url: https://mavaji.github.io/publications/
   - title: "Translations"
