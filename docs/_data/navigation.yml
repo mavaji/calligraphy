@@ -1,11 +1,11 @@
 main:
-  - title: "Home"
+  - title: "Blog"
     url: https://mavaji.github.io/
-  - title: "Publications"
-    url: https://mavaji.github.io/publications/
-  - title: "Translations"
-    url: https://mavaji.github.io/translations/
   - title: "Cinema"
     url: https://mavaji.github.io/cinema/
+  - title: "Translations"
+    url: https://mavaji.github.io/translations/
+  - title: "Publications"
+    url: https://mavaji.github.io/publications/
   - title: "Tags"
     url: /tags/
